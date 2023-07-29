@@ -9,7 +9,7 @@ body {
 .container {
     display: flex;
     flex-wrap: wrap;
-    width: 320px;
+    width: 420px;
 }
 
 .grid-item {
